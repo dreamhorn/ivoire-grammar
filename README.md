@@ -5,6 +5,7 @@ Generative grammars and text expansion. A plugin for the
 [Ivoire](https://www.npmjs.com/package/ivoire) random number generator
 framework.
 
+[![Build Status](https://travis-ci.org/dreamhorn/ivoire-grammar.svg)](https://travis-ci.org/dreamhorn/ivoire-grammar)
 
 - [Installing](#installing)
 - [Getting Started](#getting-started)
